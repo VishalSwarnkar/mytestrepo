@@ -1,2 +1,2 @@
 My first checkin
-another thing which i need to add to create conflict
+another thing which is now merged after conflict
