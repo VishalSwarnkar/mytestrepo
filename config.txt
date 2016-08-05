@@ -1,2 +1,3 @@
 First config i want to add here
 Second info adding to the config file
+Third entry
